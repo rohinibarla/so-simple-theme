@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "TODO: Set the title" # set the title
 date: 2021-09-15 04:20 # set the date
 comments: false
