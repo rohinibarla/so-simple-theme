@@ -91,10 +91,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Rohini Kumar Barla
   picture:
-  email:
-  twitter:
+  email: rohinibarla@hey.com
+  twitter: @rohinibarla
   links:
     - title:
       url:
